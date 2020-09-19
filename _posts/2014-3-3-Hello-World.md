@@ -1,8 +1,7 @@
 ---
 layout: post
 title: >-
-  Development of disordered eating behaviors and  comorbid depressive symptoms
-  in adolescence: neural and psychopathological predictors
+  Development of disordered eating behaviors and <br>comorbid depressive symptoms in adolescence: <br>neural and psychopathological predictors
 published: false
 ---
 

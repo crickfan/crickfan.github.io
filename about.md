@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Thank you for visitinig my website. Hope you find the information here useful.
 
-### More Information
+I'm a post-doctoral researcher at the Institute of Psychiatry, Psychology & Neuroscience, Social, Genetic and Developmental Psychiatry Centre, King’s College London.
 
-A place to include any other types of information that you'd like to include about yourself.
+Here is my [webpage at King's](https://www.kcl.ac.uk/people/zuo-zhang) and website for the [ESTRA study](https://estrastudy.co.uk/meet-the-team) that I'm part of.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+

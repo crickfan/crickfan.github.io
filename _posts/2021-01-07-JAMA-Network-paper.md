@@ -18,8 +18,8 @@ My research paper "**Association of Genetic and Phenotypic Assessments With Onse
 **Meaning**  Genetic and phenotypic assessments of BMI, impulse control problems, and personality may inform early and differential diagnoses of eating disorders.
 
 ![robinson_2020_Fig_1.png]({{site.baseurl}}/images/robinson_2020_Fig_1.png)
-The arrows indicate a statistically significant association with the false discovery rate correction (corrected P < .05 for 15 tests). Numbers next to arrows represent odds ratios. All models account for both sex and study site. For each DEB shown in the middle column, other DEBs have been accounted for in the model (eg, in the association between dieting and purging development, binge eating at baseline was controlled for).
+The arrows in Figure 1 indicate a statistically significant association with the false discovery rate correction (corrected P < .05 for 15 tests). Numbers next to arrows represent odds ratios. All models account for both sex and study site. For each DEB shown in the middle column, other DEBs have been accounted for in the model (eg, in the association between dieting and purging development, binge eating at baseline was controlled for).
 
 ![robinson_2020_Fig_2.png]({{site.baseurl}}/images/robinson_2020_Fig_2.png)
-The arrows indicate a significant association with the false discovery rate correction (corrected P < .05 for 89 tests). ADHD, attention-deficit/hyperactivity disorder; BMI, body mass index.
+The arrows in Figure 2 indicate a significant association with the false discovery rate correction (corrected P < .05 for 89 tests). ADHD, attention-deficit/hyperactivity disorder; BMI, body mass index.
 

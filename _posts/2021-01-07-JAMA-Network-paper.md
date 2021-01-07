@@ -7,9 +7,9 @@ published: true
 ---
 
 
-My research paper "**Association of Genetic and Phenotypic Assessments With Onset of Disordered Eating Behaviors and Comorbid Mental Health Problems Among Adolescents**", co-authored with Dr Lauren Robinson at King's, has been published in JAMA Network Open in December 2020. You can read and download the full text here [doi:10.1001/jamanetworkopen.2020.26874](https://doi.org/10.1001/jamanetworkopen.2020.26874), as this study is published with open access. The journal also published an invitated commentary on our paper [doi:10.1001/jamanetworkopen.2020.27188](https://doi.org/10.1001/jamanetworkopen.2020.27188).
+My research paper "**Association of Genetic and Phenotypic Assessments With Onset of Disordered Eating Behaviors and Comorbid Mental Health Problems Among Adolescents**", co-authored with Dr Lauren Robinson at King's, has been published in JAMA Network Open in December 2020. You can read and download the full text here [doi:10.1001/jamanetworkopen.2020.26874](https://doi.org/10.1001/jamanetworkopen.2020.26874), as this study is published with open access. I'm also happy to see an invitated commentary on our paper [doi:10.1001/jamanetworkopen.2020.27188](https://doi.org/10.1001/jamanetworkopen.2020.27188).
 
-Sincere thanks to all the participants and researchers in the [IMAGEN study](https://imagen-europe.com/) and the [ESTRA study](https://estrastudy.co.uk/).
+Sincere thanks to all the participants and researchers in the [IMAGEN study](https://imagen-europe.com/) and the [ESTRA study](https://estrastudy.co.uk/). Thank you for reading and your interest.
 
 ## Key Points
 
@@ -24,6 +24,3 @@ The arrows in Figure 1 indicate a statistically significant association survivin
 
 ![robinson_2020_Fig_2.png]({{site.baseurl}}/images/robinson_2020_Fig_2.png)
 The arrows in Figure 2 indicate a significant association surviving the false discovery rate correction (corrected P < .05 for 89 tests). ADHD, attention-deficit/hyperactivity disorder; BMI, body mass index.
-
-Thank you for reading and your interest!
-

@@ -25,5 +25,5 @@ The arrows in Figure 1 indicate a statistically significant association survivin
 ![robinson_2020_Fig_2.png]({{site.baseurl}}/images/robinson_2020_Fig_2.png)
 The arrows in Figure 2 indicate a significant association surviving the false discovery rate correction (corrected P < .05 for 89 tests). ADHD, attention-deficit/hyperactivity disorder; BMI, body mass index.
 
-Thank you for reading and your interest.
+Thank you for reading and your interest!
 

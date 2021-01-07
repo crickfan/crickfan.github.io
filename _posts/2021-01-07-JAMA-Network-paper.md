@@ -17,4 +17,5 @@ My research paper "**Association of Genetic and Phenotypic Assessments With Onse
 
 **Meaning**  Genetic and phenotypic assessments of BMI, impulse control problems, and personality may inform early and differential diagnoses of eating disorders.
 
-![2021-01-07 16_35_44-robinson_2020.pdf - Foxit Reader.png]({{site.baseurl}}/_posts/2021-01-07 16_35_44-robinson_2020.pdf - Foxit Reader.png)
+![robinson_2020_Fig_1.png]({{site.baseurl}}/_posts/robinson_2020_Fig_1.png)
+

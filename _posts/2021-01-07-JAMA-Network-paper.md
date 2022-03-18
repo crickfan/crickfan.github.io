@@ -7,11 +7,11 @@ published: true
 ---
 
 
-My research paper "**Association of Genetic and Phenotypic Assessments With Onset of Disordered Eating Behaviors and Comorbid Mental Health Problems Among Adolescents**", co-authored with Dr Lauren Robinson at King's, has been published in JAMA Network Open in December 2020. You can read and download the full text here [doi:10.1001/jamanetworkopen.2020.26874](https://doi.org/10.1001/jamanetworkopen.2020.26874), as this study is published with open access. I'm also happy to see an invitated commentary on our paper [doi:10.1001/jamanetworkopen.2020.27188](https://doi.org/10.1001/jamanetworkopen.2020.27188).
+My research paper "**Association of Genetic and Phenotypic Assessments With Onset of Disordered Eating Behaviors and Comorbid Mental Health Problems Among Adolescents**", co-authored with Dr Lauren Robinson at King's College London, has been published in JAMA Network Open in December 2020. You can read and download the full text here [doi:10.1001/jamanetworkopen.2020.26874](https://doi.org/10.1001/jamanetworkopen.2020.26874), which is open access. There is also a commentary on our paper [doi:10.1001/jamanetworkopen.2020.27188](https://doi.org/10.1001/jamanetworkopen.2020.27188).
 
 Sincere thanks to all the participants and researchers in the [IMAGEN study](https://imagen-europe.com/) and the [ESTRA study](https://estrastudy.co.uk/). Thank you for reading and for your interest.
 
-## Key Points
+## Research summary
 
 **Question**  Do associations exist between disordered eating behaviors (DEBs) and other mental health disorders in adolescence, and if so, to what extent are those associations genetically predisposed?
 
